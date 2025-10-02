@@ -45,3 +45,5 @@ ELEMENTOS PRINCIPALES
 			El nombre de la clase va la primera en mayusculas, sin espacios
 			Los nombre son representativos -> CLEAN CODE
 			El nombre de las clases no puede ser una palabra reservada
+			El nombre de la clase coincide con el nombre del fichero .java
+			
