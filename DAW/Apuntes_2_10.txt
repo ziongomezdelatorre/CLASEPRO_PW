@@ -37,3 +37,11 @@ Maven / Gradle
                 <version>3.6.2</version>
             </dependency>
         </dependencies>
+
+
+ELEMENTOS PRINCIPALES
+
+1 CLASES -> estructura basica de la programacion. Donde escribimos nuestros codigos. Cuando tratemos POO una clase es el molde de un objeto
+			El nombre de la clase va la primera en mayusculas, sin espacios
+			Los nombre son representativos -> CLEAN CODE
+			El nombre de las clases no puede ser una palabra reservada
