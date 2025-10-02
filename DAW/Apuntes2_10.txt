@@ -1,0 +1,39 @@
+Dar conjunto de instrucciones para poder llegar a un objetivo -> para que las ejecute una maquina
+
+0/1 -> lenguaje bajo nivel -> codigo maquina -> lenguaje ensamblador
+	-> lenguaje "natural" -> compilador -> J V M -> codigo maquina -> ejecutat
+
+
+
+ALGORITMO -> conjunto de pasos estructurados que tienen una entrada, un proceso y una salida
+INPUTS -> aceite, huevo, sarten
+	PROCESO -> cada uno de los pasos qie me permiten llegar a un objetivo
+OUTPUT -> huevo frito
+
+PROGRAMAR ES HACER n ALGORITMOS -> DIVIDE Y VENCERAS
+
+PROGRAMA DE GESTION DE NOMINAS DE UNA EMPRESA -> OK
+
+Gestionan los trabajadores -> OK
+Calcula el irpf en una nomima -> OK
+Generan las nominas -> OK 
+Mandan por correo las nominas -> OK
+Da de alta un usuario -> OK
+
+IDEA Community Edition + Java + JDK + GitHub + GitHubDesktop
+
+
+IntelliJ
+	Todas aquellas dependencias (librerias) que necesites, las descargas y las incorporar manualmente
+	mail -> descargo y la añado (.jar)
+Maven / Gradle
+	Todas aquellas dependencias (librerias) que necesites, se las pido a un servidor
+	pom.xml / build.gradle
+
+	    <dependencies>
+            <dependency>
+                <groupId>com.sun.mail</groupId>
+                <artifactId>javax.mail</artifactId>
+                <version>3.6.2</version>
+            </dependency>
+        </dependencies>
